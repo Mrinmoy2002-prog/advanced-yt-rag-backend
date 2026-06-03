@@ -1,0 +1,17 @@
+youtube-transcript-api 
+langchain-community 
+langchain-openai 
+faiss-cpu 
+tiktoken 
+python-dotenv 
+langchain_huggingface
+pinecone-client
+huggingface_hub
+python-dotenv
+langchain_experimental
+yt-dlp==2026.3.17
+torch==2.12.0
+transformers==5.9.0
+accelerate==1.13.0
+soundfile
+sentence-transformers
