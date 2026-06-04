@@ -5,7 +5,7 @@ faiss-cpu
 tiktoken 
 python-dotenv 
 langchain_huggingface
-pinecone-client
+pinecone
 huggingface_hub
 python-dotenv
 langchain_experimental
